@@ -73,3 +73,41 @@ header{
     max-width: 700px;
     min-height: 300px;
 }
+.flex-container-white{
+    display: flex;
+    background-color: white;
+    
+}
+.big-column{
+    width: 60%;
+    min-height: 300px;
+    background-color: rgb(77, 77, 246)
+
+}
+.small-column{
+    min-height: 300px;
+    width: 40%;
+    background-color: plum
+}
+
+section{
+    background-color: white;
+    min-height: 350px;
+    padding: 30px;
+}
+
+.flex-container-gray{
+    display: flex;
+    
+}
+
+.section-gray{
+    background-color: rgb(212, 210, 210);
+    min-height: 350px;
+    
+}
+.big-column-green{
+    background-color: green;
+    min-width: 1000px;
+    min-height: 700px;
+}
